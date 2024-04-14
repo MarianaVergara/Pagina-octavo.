@@ -1,0 +1,105 @@
+.contenedor{
+
+    width: 100%;
+    height: 11450px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+}
+
+.encabezado{
+
+    width: 100%;
+    height: 235px;
+    background-color: rgb(255, 215, 255);
+    font-size: 70px;
+    text-align: center;
+    color: rgb(255, 0, 212);
+}
+
+.mate{
+    width: 100%;
+    height: 185px;
+    background-color: rgb(255, 246, 194);
+    text-align: center;
+    font-size: 60px;
+    color: rgb(255, 217, 0);
+}
+.matematicas{
+
+    width: 100%;
+    height: 2200px;
+    background-color: rgb(255, 246, 194);
+    text-align: center;
+    font-size: 30px;
+}
+
+.biolo{
+    width: 100%;
+    height: 185px;
+    background-color: rgb(195, 255, 183);
+    text-align: center;
+    font-size: 60px;
+    color: rgb(0, 255, 76);
+}
+
+.biologia{
+
+    width: 100%;
+    height: 1405px;
+    background-color: rgb(195, 255, 183);
+    text-align: center;
+    font-size: 30px;
+}
+
+.quimi{
+    width: 100%;
+    height: 185px;
+    background-color: rgb(203, 175, 255);
+    text-align: center;
+    font-size: 60px;
+    color: rgb(119, 0, 255);
+}
+.quimica{
+
+    width: 100%;
+    height: 1230px;
+    background-color: rgb(203, 175, 255);
+    text-align: center;
+    font-size: 30px;
+}
+
+.tecno{
+    width: 100%;
+    height: 185px;
+    background-color: rgb(191, 253, 253);
+    text-align: center;
+    font-size: 60px;
+    color: rgb(0, 255, 255);
+}
+.tecnologia{
+
+    width: 100%;
+    height: 1905px;
+    background-color: rgb(191, 253, 253);
+    text-align: center;
+    font-size: 30px;
+}
+
+.ingle{
+
+    width: 100%;
+    height: 185px;
+    background-color: rgb(161, 175, 255);
+    text-align: center;
+    font-size: 60px;
+    color: rgb(80, 77, 255);
+}
+
+.ingles{
+
+    width: 100%;
+    height: 3550px;
+    background-color: rgb(161, 175, 255);
+    font-size: 30px;
+}
