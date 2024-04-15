@@ -15,6 +15,7 @@
     font-size: 70px;
     text-align: center;
     color: rgb(255, 0, 212);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .mate{
@@ -24,14 +25,16 @@
     text-align: center;
     font-size: 60px;
     color: rgb(255, 217, 0);
+    
 }
 .matematicas{
 
     width: 100%;
-    height: 2200px;
+    height: 2370px;
     background-color: rgb(255, 246, 194);
     text-align: center;
     font-size: 30px;
+    
 }
 
 .biolo{
@@ -41,15 +44,17 @@
     text-align: center;
     font-size: 60px;
     color: rgb(0, 255, 76);
+    
 }
 
 .biologia{
 
     width: 100%;
-    height: 1405px;
+    height: 1575px;
     background-color: rgb(195, 255, 183);
     text-align: center;
     font-size: 30px;
+   
 }
 
 .quimi{
@@ -63,7 +68,7 @@
 .quimica{
 
     width: 100%;
-    height: 1230px;
+    height: 1250px;
     background-color: rgb(203, 175, 255);
     text-align: center;
     font-size: 30px;
@@ -80,7 +85,7 @@
 .tecnologia{
 
     width: 100%;
-    height: 1905px;
+    height: 2000px;
     background-color: rgb(191, 253, 253);
     text-align: center;
     font-size: 30px;
