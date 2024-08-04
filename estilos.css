@@ -5,13 +5,19 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(112, 196, 73);
+    color: rgb(255, 255, 255);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("Fond.jpg");
+    background-image: url("imagen2.jpg");
+}
 
+.titulo{
+font: size 60px; ;
+color: darksalmon;
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
