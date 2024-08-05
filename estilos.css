@@ -478,9 +478,36 @@ background-repeat: no-repeat;
     float: left;
 }
 .img1b{
-    height: 500px;
-    width: 350px;
+    height: 380px;
+    width: 400px;
     background-image: url("ciclo1.png");
     background-repeat: no-repeat;
     
+}
+.img2b{
+    height: 500px;
+    width: 500px;
+    background-image: url("ciclo2.png");
+    background-repeat: no-repeat;
+}
+.img3b{
+    height: 300px;
+    width: 600px;
+    background-image: url("ciclo3.png");
+    background-repeat: no-repeat;
+    float: right
+}
+.img4b{
+    height: 400px;
+    width: 600px;
+    background-image: url("ciclo4.png");
+    background-repeat: no-repeat;
+    float: right
+}
+.img5b{
+    height: 400px;
+    width: 500px;
+    background-image: url("ciclo5.png");
+    background-repeat: no-repeat;
+    float: right
 }
