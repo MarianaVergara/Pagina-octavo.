@@ -511,3 +511,16 @@ background-repeat: no-repeat;
     background-repeat: no-repeat;
     float: right
 }
+.img1i{
+    height: 400px;
+    width: 500px;
+    background-image: url("ing1.png");
+    background-repeat: no-repeat;
+    
+}
+.img2i{
+    height: 400px;
+    width: 600px;
+    background-image: url("ing2.jpg");
+    background-repeat: no-repeat;
+}
