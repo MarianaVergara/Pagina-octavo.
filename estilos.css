@@ -5,19 +5,482 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("imagen2.jpg");
+    background-image: url("imagen1.jpg");
 }
 
-.titulo{
-font: size 60px; ;
-color: darksalmon;
-text-align: center;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+.titulo1{
+    font-size: 90px;
+    color: rgb(252, 140, 214);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img1t{
+    height: 240px;
+    width: 350px;
+    background-image: url("circuito.png");
+   background-repeat: no-repeat;
+   float: left;
+}
+.ti1t{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ti2t{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ti3t{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ti4t{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ti5t{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img2t{
+    height: 370px;
+    width: 340px;
+    background-image: url("circuito2.png");
+   background-repeat: no-repeat;
+   float: right;
+}
+
+
+
+.ti1m{
+    font-size: 80px;
+    color: rgb(255, 162, 220);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ti2m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img1m{
+    height: 100px;
+    width: 430px;
+    background-image: url("sumapoli1.png");
+   background-repeat: no-repeat;
+  
+}
+.img2m{
+    height: 180px;
+    width: 430px;
+    background-image: url("sumapoli2.png");
+   background-repeat: no-repeat; 
+}
+.img3m{
+    height: 100px;
+    width: 430px;
+    background-image: url("sumapoli3.png");
+   background-repeat: no-repeat; 
+}
+.ti3m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img4m{
+    height: 100px;
+    width: 600px;
+    background-image: url("sumapoli4.png");
+   background-repeat: no-repeat; 
+}
+.img5m{
+    height: 200px;
+    width: 600px;
+    background-image: url("sumapoli5.png");
+   background-repeat: no-repeat; 
+}
+.img6m{
+    height: 200px;
+    width: 600px;
+    background-image: url("sumapoli6.png");
+   background-repeat: no-repeat; 
+}
+.ti4m{
+    font-size: 80px;
+    color: rgb(255, 162, 220);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ti5m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img7m{
+    height: 100px;
+    width: 600px;
+    background-image: url("restapoli1.png");
+   background-repeat: no-repeat; 
+}
+.img8m{
+    height: 200px;
+    width: 600px;
+    background-image: url("restapoli2.png");
+   background-repeat: no-repeat; 
+}
+.img9m{
+    height: 100px;
+    width: 600px;
+    background-image: url("restapoli3.png");
+   background-repeat: no-repeat; 
+}
+.ti6m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+.img10m{
+    height: 100px;
+    width: 700px;
+    background-image: url("restapoli4.png");
+   background-repeat: no-repeat; 
+}
+.img11m{
+    height: 200px;
+    width: 700px;
+    background-image: url("restapoli5.png");
+   background-repeat: no-repeat; 
+}
+.img12m{
+    height: 150px;
+    width: 700px;
+    background-image: url("restapoli6.png");
+   background-repeat: no-repeat; 
+}
+.ti7m{
+    font-size: 80px;
+    color: rgb(255, 162, 220);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ti8m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img13m{
+    height: 150px;
+    width: 700px;
+    background-image: url("multipoli1.png");
+   background-repeat: no-repeat; 
+}
+.img14m{
+    height: 220px;
+    width: 700px;
+    background-image: url("multipoli2.png");
+   background-repeat: no-repeat; 
+}
+.img15m{
+    height: 150px;
+    width: 700px;
+    background-image: url("multipoli3.png");
+   background-repeat: no-repeat; 
+}
+.ti9m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img16m{
+    height: 150px;
+    width: 700px;
+    background-image: url("multipoli4.png");
+   background-repeat: no-repeat; 
+}
+.img17m{
+    height: 300px;
+    width: 700px;
+    background-image: url("multipoli5.png");
+   background-repeat: no-repeat; 
+}
+.img18m{
+    height: 100px;
+    width: 700px;
+    background-image: url("multipoli6.png");
+   background-repeat: no-repeat; 
+}
+.ti10m{
+    font-size: 80px;
+    color: rgb(255, 162, 220);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ti11m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img19m{
+    height: 130px;
+    width: 700px;
+    background-image: url("divipoli1.png");
+   background-repeat: no-repeat; 
+}
+.img20m{
+    height: 130px;
+    width: 700px;
+    background-image: url("divipoli2.png");
+   background-repeat: no-repeat; 
+}
+.img21m{
+    height: 100px;
+    width: 700px;
+    background-image: url("divipoli3.png");
+   background-repeat: no-repeat; 
+}
+.img22m{
+    height: 100px;
+    width: 700px;
+    background-image: url("divipoli4.png");
+   background-repeat: no-repeat; 
+}
+.img23m{
+    height: 100px;
+    width: 700px;
+    background-image: url("divipoli5.png");
+   background-repeat: no-repeat; 
+}
+.img24m{
+    height: 100px;
+    width: 700px;
+    background-image: url("divipoli6.png");
+   background-repeat: no-repeat; 
+}
+.ti12m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img25m{
+    height: 100px;
+    width: 700px;
+    background-image: url("divipoli7.png");
+   background-repeat: no-repeat; 
+}
+.img26m{
+height: 100px;
+width: 700px;
+background-image: url("divipoli8.png");
+background-repeat: no-repeat;
+ }
+.img27m{
+height: 100px;
+width: 700px;
+background-image: url("divipoli9.png");
+background-repeat: no-repeat;
+}
+.img28m{
+height: 100px;
+width: 700px;
+background-image: url("divipoli10.png");
+background-repeat: no-repeat;
+}
+.img29m{
+height: 100px;
+width: 700px;
+background-image: url("divipoli11.png");
+background-repeat: no-repeat;
+}
+.img30m{
+    height: 100px;
+width: 700px;
+background-image: url("divipoli12.png");
+background-repeat: no-repeat;
+}
+.ti13m{
+    font-size: 80px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.ti14m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+.imag1m{
+height: 100px;
+width: 700px;
+background-image: url("Cuadradopoli1.png");
+background-repeat: no-repeat;
+}
+.imag2m{
+height: 90px;
+width: 700px;
+background-image: url("cuadradopoli2.png");
+background-repeat: no-repeat;
+}
+.imag3m{
+height: 100px;
+width: 700px;
+background-image: url("cuadradopoli3.png");
+background-repeat: no-repeat;
+}
+.imag4m{
+height: 100px;
+width: 700px;
+background-image: url("cuadradopoli4.png");
+background-repeat: no-repeat;
+}
+.ti15m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.imag5m{
+    height: 100px;
+    width: 700px;
+    background-image: url("difepoli1.png");
+    background-repeat: no-repeat;   
+}
+.imag6m{
+    height: 100px;
+width: 700px;
+background-image: url("difepoli2.png");
+background-repeat: no-repeat;
+}
+.ti16m{
+    font-size: 70px;
+    color: rgb(255, 162, 220);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.imag7m{
+    height: 100px;
+width: 700px;
+background-image: url("Tripoli1.png");
+background-repeat: no-repeat;
+}
+.imag8m{
+    height: 100px;
+width: 700px;
+background-image: url("Tripoli2.png");
+background-repeat: no-repeat;
+}
+.imag9m{
+    height: 100px;
+width: 700px;
+background-image: url("Tripoli3.png");
+background-repeat: no-repeat;
+}
+.imag10m{
+    height: 100px;
+width: 700px;
+background-image: url("Tripoli4.png");
+background-repeat: no-repeat;
+}
+.imag11m{
+    height: 100px;
+width: 700px;
+background-image: url("Prodpoli1.png");
+background-repeat: no-repeat;
+}
+.imag12m{
+    height: 100px;
+width: 700px;
+background-image: url("Prodpoli2.png");
+background-repeat: no-repeat;
+}
+.imag13m{
+    height: 100px;
+    width: 700px;
+    background-image: url("cubopoli1.png");
+    background-repeat: no-repeat;
+}
+.imag14m{
+    height: 100px;
+    width: 700px;
+    background-image: url("cubopoli2.png");
+    background-repeat: no-repeat;
+}
+.imag15m{
+    height: 100px;
+    width: 700px;
+    background-image: url("cubopoli3.png");
+    background-repeat: no-repeat;
+}
+.imag16m{
+    height: 100px;
+    width: 700px;
+    background-image: url("cubopoli4.png");
+    background-repeat: no-repeat;
+}
+.imag17m{
+    height: 100px;
+    width: 700px;
+    background-image: url("sumacubo1.png");
+    background-repeat: no-repeat;
+}
+.imag18m{
+    height: 100px;
+    width: 700px;
+    background-image: url("sumacubo2.png");
+    background-repeat: no-repeat;
+}
+.imag19m{
+    height: 100px;
+    width: 700px;
+    background-image: url("restacubo1.png");
+    background-repeat: no-repeat;
+}
+.imag20m{
+    height: 100px;
+    width: 700px;
+    background-image: url("restacubo2.png");
+    background-repeat: no-repeat;
+}
+.img1q{
+    height: 300px;
+    width: 400px;
+    background-image: url("qui1.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img2q{
+    height: 300px;
+    width: 400px;
+    background-image: url("qui2.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img3q{
+    height: 300px;
+    width: 400px;
+    background-image: url("qui3.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img1b{
+    height: 500px;
+    width: 350px;
+    background-image: url("ciclo1.png");
+    background-repeat: no-repeat;
+    
 }
