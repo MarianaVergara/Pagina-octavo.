@@ -524,3 +524,9 @@ background-repeat: no-repeat;
     background-image: url("ing2.jpg");
     background-repeat: no-repeat;
 }
+.imagtec3{
+    height: 400px;
+    width: 600px;
+    background-image: url("imagtec3.jpg");
+    background-repeat: no-repeat;
+}
