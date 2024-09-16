@@ -524,9 +524,23 @@ background-repeat: no-repeat;
     background-image: url("ing2.jpg");
     background-repeat: no-repeat;
 }
-.imagtec3{
+
+
+.imagtec32{
     height: 400px;
     width: 600px;
+    background-image: url("imagtec2.jpg.png");
+    background-repeat: no-repeat;
+}
+.imagtec33{
+    height: 300px;
+    width: 600px;
     background-image: url("imagtec3.jpg");
+    background-repeat: no-repeat;
+}
+.imagtec34{
+    height: 400px;
+    width: 600px;
+    background-image: url("imagtec4.jpg.png");
     background-repeat: no-repeat;
 }
