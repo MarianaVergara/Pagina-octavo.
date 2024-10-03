@@ -539,8 +539,26 @@ background-repeat: no-repeat;
     background-repeat: no-repeat;
 }
 .imagtec34{
-    height: 400px;
+    height: 200px;
     width: 600px;
     background-image: url("imagtec4.jpg.png");
+    background-repeat: no-repeat;
+}
+.imagtec35{
+    height: 200px;
+    width: 600px;
+    background-image: url("imagtec5.jpg.png");
+    background-repeat: no-repeat;
+}
+.imagtec36{
+    height: 300px;
+    width: 600px;
+    background-image: url("imagtec6.jpg.png");
+    background-repeat: no-repeat;
+}
+.imagtec37{
+    height: 300px;
+    width: 600px;
+    background-image: url("imagtec7.jpg");
     background-repeat: no-repeat;
 }
