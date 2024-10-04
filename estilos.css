@@ -562,3 +562,17 @@ background-repeat: no-repeat;
     background-image: url("imagtec7.jpg");
     background-repeat: no-repeat;
 }
+.imaginicio{
+    height: 900px;
+    width: 1000px;
+    background-image: url("imagen\ inicio.jpg");
+    background-repeat: no-repeat;
+    background-position: 250px;
+}
+.imagcontacto1{
+    height: 800px;
+    width: 800px;
+    background-image: url("imagcontacto1.jpg");
+    background-repeat: no-repeat;
+    
+}
