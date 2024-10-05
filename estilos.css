@@ -576,3 +576,9 @@ background-repeat: no-repeat;
     background-repeat: no-repeat;
     
 }
+.imagcontacto2{
+    height: 800px;
+    width: 800px;
+    background-image: url("imagcontacto2.jpg");
+    background-repeat: no-repeat;
+}
