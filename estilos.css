@@ -733,3 +733,22 @@ background-repeat: no-repeat;
     background-image: url("enlace3.jpg");
     background-repeat: no-repeat;
 }
+.mapamentalquimica{
+    height: 700px;
+    width: 1000px;
+    background-image: url("mapa\ mental\ quimica.jpg.png");
+    background-repeat: no-repeat;
+}
+.biologia1{
+  
+    height: 400px;
+    width: 1000px;
+    background-image: url("biologia1.jpg");
+    background-repeat: no-repeat;
+}
+.biologia2{
+    height: 400px;
+    width: 1000px;
+    background-image: url("biologia2.jpg.png");
+    background-repeat: no-repeat;
+}
