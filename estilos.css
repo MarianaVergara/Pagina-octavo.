@@ -752,3 +752,51 @@ background-repeat: no-repeat;
     background-image: url("biologia2.jpg.png");
     background-repeat: no-repeat;
 }
+.biologia4{
+    height: 400px;
+    width: 1000px;
+    background-image: url("biologia4.jpg.png");
+    background-repeat: no-repeat;
+}
+.mapamentalbiologia{
+    height: 700px;
+    width: 1000px;
+    background-image: url("mapa\ mental\ biologia.jpg");
+    background-repeat: no-repeat;
+}
+.regla1{
+    height: 500px;
+    width: 1000px;
+    background-image: url("regla1.jpg");
+    background-repeat: no-repeat;
+}
+.regla2{
+    height: 500px;
+    width: 1000px;
+    background-image: url("regla2.jpg.png");
+    background-repeat: no-repeat;
+}
+.regla3{
+    height: 500px;
+    width: 1000px;
+    background-image: url("regla3.jpg");
+    background-repeat: no-repeat;
+}
+.regla4{
+    height: 550px;
+    width: 1000px;
+    background-image: url("regla4.jpg");
+    background-repeat: no-repeat;
+}
+.regla5{
+    height: 500px;
+    width: 1000px;
+    background-image: url("regla5.jpg");
+    background-repeat: no-repeat;
+}
+.regla6{
+    height: 500px;
+    width: 1000px;
+    background-image: url("regla.jpg");
+    background-repeat: no-repeat;
+}
